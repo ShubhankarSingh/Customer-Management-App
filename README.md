@@ -15,5 +15,4 @@ A Customer Management App where customers can place order for different items. O
 
 * Django 3.0
 * HTML5
-* CSS3
 * Bootstrap3
